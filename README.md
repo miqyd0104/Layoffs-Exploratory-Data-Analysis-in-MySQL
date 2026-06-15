@@ -81,8 +81,8 @@ The dataset contains approximately 1,996 records of global company layoffs from 
 
 ## Files Included
 
-- layoffs_clean.csv
-- Exploratory_Data_Analysis.sql
+- [layoffs_clean.csv](layoffs_clean.csv) – Cleaned layoffs dataset used for analysis
+- [Exploratory_Data_Analysis.sql](Exploratory_Data_Analysis.sql) – Complete SQL script containing all exploratory analysis queries
 
 ---
 
